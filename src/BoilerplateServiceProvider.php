@@ -1,6 +1,6 @@
 <?php
 
-namespace Johngna\Boilerplate;
+namespace Boilerplate;
 
 use Illuminate\Support\ServiceProvider;
 

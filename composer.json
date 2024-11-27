@@ -8,13 +8,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Johngna\\Boilerplate\\": "src/"
+            "Boilerplate\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Johngna\\Boilerplate\\BoilerplateServiceProvider"
+                "Boilerplate\\BoilerplateServiceProvider"
             ]
         }
     },

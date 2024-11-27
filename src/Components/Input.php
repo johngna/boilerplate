@@ -1,6 +1,6 @@
 <?php
 
-namespace Johngna\Boilerplate\Components;
+namespace Boilerplate\Components;
 
 use Illuminate\View\Component;
 

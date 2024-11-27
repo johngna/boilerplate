@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Johngna\\Boilerplate\\' => array($baseDir . '/src'),
+    'Boilerplate\\' => array($baseDir . '/src'),
 );
