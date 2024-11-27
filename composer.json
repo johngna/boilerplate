@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Boilerplate\\BoilerplateServiceProvider"
+                "Johngna\\Boilerplate\\BoilerplateServiceProvider"
             ]
         }
     },

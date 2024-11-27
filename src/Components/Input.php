@@ -1,6 +1,6 @@
 <?php
 
-namespace MinhaBiblioteca\Components;
+namespace Johngna\Boilerplate\Components;
 
 use Illuminate\View\Component;
 
