@@ -1,0 +1,28 @@
+{
+    "name": "johngna/boilerplate",
+    "description": "My ultimate laravel library",
+    "type": "library",
+    "require": {
+        "php": ">=8.1",
+        "illuminate/support": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Johngna\\Boilerplate\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Boilerplate\\BoilerplateServiceProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Glauber",
+            "email": "johngna@gmail.com"
+        }
+    ]
+}
